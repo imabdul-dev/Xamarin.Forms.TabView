@@ -1,5 +1,7 @@
 # TabView
 
+Note: Fixed iOS tabs freezing issue
+
 The TabView is a way to display a set of tabs and their respective content. TabViews are useful for displaying several views of content.
 
 ```
